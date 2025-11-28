@@ -14,6 +14,7 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, explo
 📚 Continuously learning and improving in DSA, ML pipelines, and Applied Data Science
 
  **Technologies & Tools**
+ 
 Programming
 Python, C, Core Java, SQL
 Machine Learning & AI
@@ -25,11 +26,13 @@ Excel, Power BI, Matplotlib, Seaborn
 Data Cleaning, EDA, Feature Engineering
 
 **Tools & Frameworks**
+
 Streamlit
 Git, GitHub
 Jupyter Notebook
 
 🧠**Projects I’ve Built**
+
 🔹 Landmark Detection System
 Built a deep learning model to detect and classify landmarks using CNNs. Cleaned dataset, trained model, deployed using Streamlit, and improved accuracy with augmentation.
 
