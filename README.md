@@ -1,6 +1,6 @@
 👋**Hi I am Akshitha Puppala**
 
-AI Developer Intern | Data Analyst | Python & ML Enthusiast
+Passionate Data Analyst | Data Scientist | Python & ML Enthusiast
 
 Welcome to my GitHub! I’m passionate about building intelligent systems, exploring data, and developing solutions that combine AI, ML, and software engineering.
 
