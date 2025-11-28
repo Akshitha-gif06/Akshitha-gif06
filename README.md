@@ -44,6 +44,7 @@ Performed data cleaning, visualization, and KPI tracking to analyze regional sal
 
 
 📫**Connect with Me**
+
 LinkedIn: www.linkedin.com/in/akshitha-puppala
 
 Email: akshithapuppala@gmail.com
