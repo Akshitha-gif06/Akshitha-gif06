@@ -4,7 +4,7 @@ Passionate Data Analyst | Data Scientist | Python & ML Enthusiast
 
 🚀**About Me**
 
-🎓 Hi I am Akshitha Puppala,  dedicated and motivated student pursuing my B.Tech in branch of AI&ML  (2026).I am passionate about exploring data , developing solutions that combine AI , ML and Software Engineering. Excited to launch my skills , innovative projects in tech industry and learn from experienced.
+🎓 A dedicated and motivated student pursuing my B.Tech in branch of AI&ML  (2026).I am passionate about exploring data , developing solutions that combine AI , ML and Software Engineering. Excited to launch my skills , innovative projects in tech industry and learn from experienced.
 
 **Internships**:
 💼 AI Developer Intern - 1stop.ai  (Landmark Detection, Animal Classifier)
