@@ -6,12 +6,12 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, explo
 
 🚀**About Me**
 
-🎓 B.Tech in Data Science (2025)
-💼 AI Developer Intern (Landmark Detection, Animal Classifier)
-💼 Data Analyst Intern (Amazon Sales Analytics)
+🎓 B.Tech in AI&ML  (2026)
+**Internships**:
+💼 AI Developer Intern - 1stop.ai  (Landmark Detection, Animal Classifier)
+💼 Data Analyst Intern -Innobyte Services (Amazon Sales Analytics)
 🤖 Interested in AI/ML, NLP, Computer Vision, Data Analytics
-🛠 Love building end-to-end applications using Python, Streamlit, Flask, SQL, and Visualization tools
-📚 Continuously learning and improving in DSA, ML pipelines, and Applied Data Science
+🛠 Love building end-to-end applications using Python, Streamlit, Flask, SQL, and Visualization.
 
  **Technologies & Tools**
  
@@ -20,15 +20,14 @@ Python, C, Core Java, SQL
 Machine Learning & AI
 NumPy, Pandas, Matplotlib, Seaborn
 Scikit-Learn, TensorFlow, Keras
-NLP Techniques, Computer Vision Models
+NLP Techniques
 Data & Visualization
-Excel, Power BI, Matplotlib, Seaborn
-Data Cleaning, EDA, Feature Engineering
+Excel, Power BI
+Data Cleaning
 
 **Tools & Frameworks**
 
 Streamlit
-Git, GitHub
 Jupyter Notebook
 
 🧠**Projects I’ve Built**
@@ -40,7 +39,7 @@ Built a deep learning model to detect and classify landmarks using CNNs. Cleaned
 Developed a multi-class image classifier using CNNs to identify different animal species with high accuracy.
 
 🔹 Text-to-Speech Converter
-Created a Python-based application that converts text to natural-sounding speech using NLP and TTS libraries.
+Created a Python-based application that converts text to natural-sounding speech using NLP.
 
 🔹 Amazon Sales Data Analytics
 Performed data cleaning, visualization, and KPI tracking to analyze regional sales performance and improve decision-making.
@@ -57,4 +56,4 @@ Email: akshithapuppala@gmail.com
 Advanced Machine Learning
 DSA for Placements
 Data Analytics and BI Tools
-Model Deployment & MLOps Concepts.
+Model Deployment.
